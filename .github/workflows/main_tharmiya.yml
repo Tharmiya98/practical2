@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'tharmiya'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1C4FFB603A734410B931DCDD4175D5A8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_255037B3F9DC4093B3A3E5DADDB601F6 }}
           package: .
